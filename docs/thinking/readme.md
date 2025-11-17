@@ -120,3 +120,15 @@ thinking文件夹会记录一些备课中额外的信息
 
 https://cg.cs.tsinghua.edu.cn/course/vis/syllabus.html
 
+北大的课程
+
+https://www.bilibili.com/video/BV1z8411j7BY
+
+浙大的课程
+
+https://www.bilibili.com/video/BV1wp4y1E77E
+
+Lynda
+
+https://www.bilibili.com/video/BV1Wv4y147Ps
+

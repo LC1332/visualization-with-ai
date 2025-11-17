@@ -1,6 +1,6 @@
 all_stock_data是一个list of dict
 每个元素有三个字段name(string), dates(list), prices(list)
-cod
+code
 
 我希望实现一个plotly的折线图绘制每个股票的价格
 - 横轴是时间，纵轴是价格
