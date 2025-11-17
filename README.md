@@ -18,7 +18,10 @@
 
 - 第一期 交互式可视化基础
   - 第一章 Plotly绘制交互式可视化
-  - 第二章 前后端通信的交互可视化
+  - 时序数据
+  - 空间数据
+  - 向量数据
+  - 前后端交互
 
 *这里写你的项目目录，已完成的部分用添加上跳转链接*
 - [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)

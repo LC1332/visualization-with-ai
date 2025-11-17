@@ -86,3 +86,37 @@ thinking文件夹会记录一些备课中额外的信息
 
 那么看来第一节课肯定会介绍plotly
 
+
+## 数据放在哪里
+
+```
+我有一门数据科学的课程。里面每节课有一些不同的数据
+
+我的数据如果放在git，一方面大小有限制，一方面我不知道多少人使用过这套数据。
+
+我可以每节课的数据是一些parquet， 然后用字符串索引。
+
+比如”course_A_data“ 对应一个parquet
+
+然后把这套数据上传到hugging face，再在每节课运行的时候下载对应课的数据吗
+```
+
+## 为什么要Plotly
+
+```
+我正在准备一门数据可视化的课程，第一节课会涉及plotly
+
+我知道plotly相比matplotlib有下面特点
+
+- 都可以在notebook 中显示
+- 有交互鼠标hover显示等功能
+
+思考一下告诉我plotly相比plt还有什么好处
+```
+
+# 参考资源
+
+清华的可视化课程
+
+https://cg.cs.tsinghua.edu.cn/course/vis/syllabus.html
+
